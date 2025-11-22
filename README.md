@@ -2,8 +2,8 @@
 
 
 Programming Languages:
-
+[![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
 Web Development:
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 Tools & Platforms:
-https://skillicons.dev/icons?i=all
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
