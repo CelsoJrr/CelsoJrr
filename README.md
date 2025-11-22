@@ -2,7 +2,7 @@
 
 
 ### Programming Languages:
-[![Programming Languages](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=py,verilog)](https://skillicons.dev)
 
 ### Web Development:
 [![Web Development](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
