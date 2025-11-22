@@ -1,11 +1,11 @@
-## Celso Santos Bomfim Júnior
+# Celso Santos Bomfim Júnior
 
 
-**Programming Languages:**
-[![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
+### Programming Languages:
+[![Programming Languages](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
 
-**Web Development:**
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+### Web Development:
+[![Web Development](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-**Tools & Platforms:**
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+### Tools & Platforms:
+[![Tools & Platforms](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
