@@ -1,4 +1,9 @@
 ## Celso Santos Bomfim Júnior
 
 
-Habilidades:
+Programming Languages:
+
+Web Development:
+
+Tools & Platforms:
+
