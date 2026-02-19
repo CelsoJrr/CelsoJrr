@@ -5,7 +5,7 @@
 ![](https://skillicons.dev/icons?i=py,lua)
 
 ### Web Development:
-![](https://skillicons.dev/icons?i=)
+![](https://skillicons.dev/icons?i=html,css)
 
 ### Tools & Platforms:
 ![](https://skillicons.dev/icons?i=git,github)
